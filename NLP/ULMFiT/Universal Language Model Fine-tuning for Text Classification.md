@@ -4,6 +4,8 @@ Authors: Jeremy Howard, Sebastian Ruder
 
 https://arxiv.org/pdf/1801.06146.pdf
 
+**Key Takeaway:** Transfer learning for NLP is possible, shows great results, and is more about how to perform the optimization process than anything inherent within the model.
+
 ### Abstract
 
 - Transfer learning for NLP tasks
