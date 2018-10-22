@@ -188,7 +188,7 @@ https://arxiv.org/pdf/1801.06146.pdf
   - used same hyperparameters as before
   - **"On IMDb and AG, supervised ULMFiT with only 100 labeled examples matches the performance of training from scratch with 10× and 20× more data respectively"**
   - **"If we allow ULMFiT to also utilize unlabeled examples (50k for IMDb, 100k for AG), at 100 labeled examples, we match the performance of training from scratch with 50× and 100× more data on AG and IMDb respectively."**
-  - ![](/Users/robincheong/Documents/Stanford/Papers/NLP/ULMFiT/ULMFiT_1.png)
+  - ![](ULMFiT_1.png)
 
 - **Impact of Pretraining**
   - No pretraining vs. pretraining on WikiText-103

@@ -114,7 +114,7 @@ https://arxiv.org/pdf/1807.07362.pdf
       - How do they find the most important subsets?
     - Fig 2:
 
-  ![](/Users/robincheong/Documents/Stanford/Papers/To Read/Speeding up the Hyperparameter Optimization of Deep Convolutional Neural Networks/fig2.png)
+  ![](fig2.png)
 
 - Most important hyper-parameters stay largely the same, but seems like the importance of the number of hidden layes / conv layers 
   - Could be since those depend directly on the input dimension
