@@ -4,7 +4,7 @@ Authors: Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio
 
 https://arxiv.org/pdf/1409.0473.pdf
 
-
+**Key Takeaway:** Existing NMT models were bottlenecked by a fixed sized encoding. The solution is to allow the model to selectively attend to whatever parts of the input as necessary.
 
 ### Abstract
 
