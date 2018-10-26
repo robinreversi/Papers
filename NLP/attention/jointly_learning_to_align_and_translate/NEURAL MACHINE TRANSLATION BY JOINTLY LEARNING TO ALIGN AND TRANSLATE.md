@@ -40,7 +40,7 @@ https://arxiv.org/pdf/1409.0473.pdf
 
   **Critically, note that the predictions for each word depend on a distinct context vector $c_i$ rather than just one as in traditional encoder-decoder models.**
 
-  Each $c_i$ is computed as a weighted sum of a series of *annotations:* $(h_1, \dots, h_{T_x})$ where each annotation $h_i$ contains information about the whole input sequence but strongly focuses around the $ith$ input.
+  lEach $c_i$ is computed as a weighted sum of a series of *annotations:* $(h_1, \dots, h_{T_x})$ where each annotation $h_i$ contains information about the whole input sequence but strongly focuses around the $ith$ input.
 
   Hence, we get that  
 
